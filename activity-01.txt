@@ -2,3 +2,4 @@ Beagitr
 BSIT
 Bs information technology
 Centro Escolar University - malolos
+Add PRIN135, PRIN135L
